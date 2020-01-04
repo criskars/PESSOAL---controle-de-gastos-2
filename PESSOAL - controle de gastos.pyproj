@@ -4,6 +4,7 @@
     <Name>PESSOAL - controle de gastos</Name>
     <RootNamespace>PESSOAL - controle de gastos</RootNamespace>
     <SuppressEnvironmentCreationPrompt>True</SuppressEnvironmentCreationPrompt>
+    <TestFramework>Pytest</TestFramework>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
